@@ -1,11 +1,9 @@
 ---
-date: "2020-06-26"
-linktitle: Migrating from Jekyll
-menu:
-  main:
-    name: Statistics
-    weight: 10
-title: 신뢰구간
+title: "신뢰구간"
+author: "Juyoung Kim"
+date: 2020-06-26
+categories: ["Statistics"]
+tags: ["R", "statistics", "inference"]
 ---
 
 ## 신뢰구간의 정의
