@@ -11,6 +11,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   bio = ""
   avatar = "img/avatar.png"
 
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = 1
+
+
 [Params]
   description = "A personal learning blog" # Description of your site
   opengraph = true
