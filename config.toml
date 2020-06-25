@@ -1,18 +1,18 @@
 baseurl = "/"
-title = "Mainroad"
-languageCode = "en-us"
+title = "Nathan's Learning Log"
+languageCode = "ko"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Juyoung Kim"
+  bio = ""
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "A personal learning blog" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -21,7 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "A learning repository" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
