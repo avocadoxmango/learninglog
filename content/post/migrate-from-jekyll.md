@@ -1,12 +1,16 @@
 ---
-date: "2014-03-10"
+date: "2020-06-26"
 linktitle: Migrating from Jekyll
 menu:
   main:
-    name: Jekyll migration
+    name: Statistics
     weight: 10
-title: Migrate to Hugo from Jekyll
+title: 신뢰구간
 ---
+
+## 신뢰구간의 정의
+신뢰구간이란 통계적으로 신뢰할 수 있는 구간을 말한다.
+
 
 ## Move static content to `static`
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
