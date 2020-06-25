@@ -1,9 +1,9 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
+title: "Introduction to R Markdown"
+author: "Juyoung Kim"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R Markdown", "plot", "regression", "visualization"]
 ---
 
 ```{r setup, include=FALSE}
