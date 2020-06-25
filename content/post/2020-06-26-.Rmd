@@ -1,0 +1,19 @@
+---
+title: 신뢰구간
+author: Juyoung Kim
+date: '2020-06-26'
+slug: ''
+menu:
+  main:
+    name: 통계학
+    weight: 2
+categories:
+  - 통계
+tags:
+  - 통계
+description: ''
+thumbnail: ''
+---
+
+
+신뢰구간은 신뢰할 수 있는 구간을 나타낸다.
